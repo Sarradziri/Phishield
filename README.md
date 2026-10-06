@@ -104,17 +104,4 @@ npm start
 
 The app runs on `http://localhost:3000`.
 
-## 📸 Screenshots
 
-<!-- TODO: add 2-3 screenshots (extension popup, web app, safe vs phishing result) -->
-
-## 🔮 Future Improvements
-
-- Analyze links and attachments, not only text
-- Multilingual support (French / Arabic)
-- Deploy the backend online
-- Retrain periodically on new phishing samples
-
-## 👩‍💻 Author
-
-**Sarra** <!-- TODO: add GitHub / LinkedIn links -->
